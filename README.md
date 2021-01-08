@@ -1,4 +1,4 @@
-1
+
 # Sudoku-Solver
 
 
@@ -10,7 +10,7 @@ and the user can attempt to solve it by clicking on the cells. Entering a number
 ## Controls
 Using 'Spacebar', You can solve it automatically.
 ## Requirements
-27
+
 In order to run the program, the following is required:
 
 * Python 3 
