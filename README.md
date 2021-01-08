@@ -1,8 +1,6 @@
 1
 # Sudoku-Solver
 
-![PyGame][1] ![Python][2]
-
 
 Sudoku game written in Python with the Pygame library 
 
@@ -21,13 +19,7 @@ is being applied in order to solve the board.
 
 
 ## Controls
-23
-| Keys              | Actions                                                        |
-24
-|                   |                                                                |
-25
-| `Space`           |    Solves the board via a backtracking algorithm visualizer    |
-26
+Using 'Spacebar', You can solve it automatically.
 ## Requirements
 27
 In order to run the program, the following is required:
